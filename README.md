@@ -46,13 +46,13 @@ E ao solicitar para gerar um texto também foi pensado em uma historia bem simpl
 Apresente os resultados do seu projeto
 Resultados das Imagens geradas pela Microsoft Image Creator
 
-![Passaro](https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/3975413d-98a7-42ed-a72a-78b377e8d6e8)
+![Passaro] https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/3975413d-98a7-42ed-a72a-78b377e8d6e8
 
-![Passaro(1)](https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/f9b973ec-6240-4c12-afeb-0fde71e44397)
+![Passaro(1)] https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/f9b973ec-6240-4c12-afeb-0fde71e44397
 
-![Gato](https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/539da903-dc32-4587-907f-9d0a68ca4222)
+![Gato] https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/539da903-dc32-4587-907f-9d0a68ca4222
 
-![Gato(1)](https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/050621d9-992c-4f07-b3ff-8cc14ffb994a)
+![Gato(1)] https://github.com/bfrmachine/lab-natty-or-not/assets/161496087/050621d9-992c-4f07-b3ff-8cc14ffb994a
 
 
 Resultado das Historias geradas pelo ChatGPT
